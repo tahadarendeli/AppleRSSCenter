@@ -1,0 +1,6 @@
+framework module Pods_ClassProject {
+  umbrella header "Pods-ClassProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
